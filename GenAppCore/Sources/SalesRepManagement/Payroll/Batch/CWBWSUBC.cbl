@@ -10,6 +10,7 @@
       *  XPEDITER/TSO TRAINING SESSIONS.                               *
       *                                                                *
       *                                                                *
+      *                                                                *
       ******************************************************************
        ENVIRONMENT DIVISION.
        DATA DIVISION.
