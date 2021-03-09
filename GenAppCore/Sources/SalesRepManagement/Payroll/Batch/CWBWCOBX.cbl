@@ -16,7 +16,6 @@
       *                                                                *
       *  NEW COMMENT TO TEST GIT TO ISPW INTEGRATION                   *
       *                                                                *
-      *                                                                *
       ******************************************************************
        ENVIRONMENT DIVISION.
        INPUT-OUTPUT SECTION.
