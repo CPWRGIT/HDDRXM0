@@ -8,26 +8,16 @@ ispwApplication:
   pathMappings:
   - path: "**/Sources/**"
     types:
+    - fileExtension: cbl
+      ispwType: COB
     - fileExtension: cbldb2
       ispwType: COB
       sql: 'Yes'
-  - path: "**/Sources/**"
-    types:
-    - fileExtension: cbl
-      ispwType: COB
-  - path: "**/Sources/**"
-    types:
-    - fileExtension: cpy
-      ispwType: COPY
-  - path: "**/Sources/**"
-    types:
-    - fileExtension: incl
-      ispwType: INCL
-  - path: "**/Sources/**"
-    types:
-    - fileExtension: jcl
-      ispwType: JOB
-  - path: "**/Sources/**"
-    types:
     - fileExtension: pli
       ispwType: PLI
+    - fileExtension: cpy
+      ispwType: COPY
+    - fileExtension: incl
+      ispwType: INCL
+    - fileExtension: jcl
+      ispwType: JOB
