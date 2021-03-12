@@ -3,8 +3,8 @@
   <ExtensionData />
   <ExtensionData componentName="cwxtcob" componentId="5d5fea81180742000cf98888">
     <Parameter key="loadlibraries">
-      <Value>SALESSUP.GITE.UT1.LOAD</Value>
-      <Value>SALESSUP.GITE.FT1.LOAD</Value>
+      <Value>SALESSUP.GITE.UT3.LOAD</Value>
+      <Value>SALESSUP.GITE.FT3.LOAD</Value>
       <Value>SALESSUP.GITE.DEVL.LOAD</Value>
       <Value>SALESSUP.GITE.MAIN.LOAD</Value>
       <Value>SALESSUP.GITE.PROD.LOAD</Value>
