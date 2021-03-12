@@ -12,6 +12,5 @@ git2Ispw(
     cesCredentialsId:     cesCredentialsId, 
     gitCredentialsId:     gitCredentialsId, 
     gitRepoUrl:           gitRepoUrl,       
-    ccRepo:               ccRepo,
-    executionEnvironment: 'CWC2'
+    ccRepo:               ccRepo
 )
