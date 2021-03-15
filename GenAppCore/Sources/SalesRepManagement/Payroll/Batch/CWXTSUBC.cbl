@@ -11,6 +11,7 @@
       *  BASED ON MONTHLY SALES RATES                                  *
       *                                                                *
       *                                                                *
+      *                                                                *
       ******************************************************************
        ENVIRONMENT DIVISION.
        DATA DIVISION.
