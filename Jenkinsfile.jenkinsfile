@@ -8,7 +8,7 @@ String gitCredentialsId     = '67a3fb18-073f-498b-adee-1a3c75192745'            
 String ccRepo               = 'SALESSUP.GITE.COCO.REPOS'                     /* Change to user specific code coverage repository                     */
 
 git2Ispw(
-    executionEnvironment: 'pm',
+    executionEnvironment: 'local',
     hostCredentialsId:    hostCredentialsId,
     cesCredentialsId:     cesCredentialsId, 
     gitCredentialsId:     gitCredentialsId, 
