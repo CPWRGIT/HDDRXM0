@@ -1,14 +1,22 @@
 @Library('GITDEMO_Shared_Lib@Git2IspwCWC2') _
 //@Library('GITDEMO_Shared_Lib@Git2IspwFts') _
 
+//CWCC
 String hostCredentialsId    = 'ea48408b-b2be-4810-8f4e-5b5f35977eb1'                    /* Change to Jenkins credentials ID for Host userid/password            */
 String cesCredentialsId     = '71063193-ee67-4b52-890a-58843f33c183'                     /* Change to Jenkins credentials ID for CES token                       */
 String gitRepoUrl           = 'https://github.com/CPWRGIT/HDDRXM0.git'   /* Change "<repo>" to user specific repository name                     */
 String gitCredentialsId     = '67a3fb18-073f-498b-adee-1a3c75192745'                     /* Change to Jenkins credentials ID for GitHub personal access token    */
 String ccRepo               = 'SALESSUP.GITE.COCO.REPOS'                     /* Change to user specific code coverage repository                     */
 
+//Local
+// String hostCredentialsId    = 'hostCredentials'                    /* Change to Jenkins credentials ID for Host userid/password            */
+// String cesCredentialsId     = 'jenkinsCesToken'                     /* Change to Jenkins credentials ID for CES token                       */
+// String gitRepoUrl           = 'https://github.com/CPWRGIT/HDDRXM0.git'   /* Change "<repo>" to user specific repository name                     */
+// String gitCredentialsId     = 'CPWRGIT_GitHub'                     /* Change to Jenkins credentials ID for GitHub personal access token    */
+// String ccRepo               = 'SALESSUP.GITE.COCO.REPOS'                     /* Change to user specific code coverage repository                     */
+
 git2Ispw(
-    executionEnvironment: 'pm',
+//    executionEnvironment: 'local',
     hostCredentialsId:    hostCredentialsId,
     cesCredentialsId:     cesCredentialsId, 
     gitCredentialsId:     gitCredentialsId, 
