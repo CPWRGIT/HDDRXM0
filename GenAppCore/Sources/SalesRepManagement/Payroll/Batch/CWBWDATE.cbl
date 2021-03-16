@@ -16,6 +16,7 @@
 *********  IN A GIVEN MONTH.
 *********
 *********
+*********
        01  DATE-TABLE.
            05  FILLER                 PIC 9(4)    VALUE 0131.
            05  FILLER                 PIC 9(4)    VALUE 0228.
