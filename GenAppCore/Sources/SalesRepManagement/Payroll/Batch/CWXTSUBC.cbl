@@ -10,6 +10,7 @@
       *  CALCULATES COMMISIONS FOR SALES AND MANAGEMENT EMPLOYEE       *
       *  BASED ON MONTHLY SALES RATES                                  *
       *                                                                *
+      * 07:48                                                          *      
       ******************************************************************
        ENVIRONMENT DIVISION.
        DATA DIVISION.
