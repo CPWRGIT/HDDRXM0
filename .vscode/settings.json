@@ -1,3 +1,30 @@
 {
-    "ISPW.YAML Mapping File": "GenAppCore\\ispwconfig.yml"
+    "ISPW.YAML Mapping File": "GenAppCore\\ispwconfig.yml",
+    "zopeneditor.propertygroups": [
+        {
+          "name": "local-cobol-files",
+          "type": "local",
+          "language": "cobol",
+          "syslib": [
+          "**/Sources/**"
+          ],
+          "libraries": [
+            {
+              "name": "MYFILE",
+              "locations": [
+              "**/Sources/**"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "local-pl1-files",
+          "type": "local",
+          "language": "pl1",
+          "compilerOptions": "not(!),margins(2,100)",
+          "syslib": [
+            "**/Sources/**"
+          ],
+        },
+    ]
 }
