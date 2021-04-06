@@ -15,7 +15,6 @@
       *                                                                *
       *  RUN JCL     - STORED IN ECC SLCXCNTL MEMBER - LAUNCHKS        *
       *                                                                *
-      *                                                                *
       ******************************************************************
        ENVIRONMENT DIVISION.
        INPUT-OUTPUT SECTION.
