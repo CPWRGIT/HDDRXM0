@@ -6,7 +6,8 @@
       *                                                                *
       *  THIS CALLED PROGRAM IS PART OF THE COBOL DEMO PROGRAM USED    *
       *  FOR XPEDITER/TSO TRAINING SESSIONS                            *
-      *                                                                *  
+      *                                                                *
+      *                                                                *
       ******************************************************************
        ENVIRONMENT DIVISION.
        DATA DIVISION.
