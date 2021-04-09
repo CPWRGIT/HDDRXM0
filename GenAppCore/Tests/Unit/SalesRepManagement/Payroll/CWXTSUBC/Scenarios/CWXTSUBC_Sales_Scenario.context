@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ExecutionContext xmlns="http://www.xact.dk/xatester/v/1" environment="5b508b8a787be73b59238d38" logLevel="LOG" remote="false" useSimulations="true" uploadResult="false" timeout="600" readTimeout="30" debuggerType="CCEXPEDITER" jobInfoInterval="3" useRepository="false" ccrepository="SALESSUP.GITE.COCO.REPOS" ccsystem="GIT" cctestid="CWXTSUBC" ccprogramtype="TOTALTEST - TTTRUNNR" ccreset="true" ccshow="true">
+<ExecutionContext xmlns="http://www.xact.dk/xatester/v/1" environment="5b508b8a787be73b59238d38" logLevel="INFO" remote="false" useSimulations="true" uploadResult="false" timeout="600" readTimeout="30" debuggerType="CCEXPEDITER" jobInfoInterval="3" useRepository="false" ccrepository="SALESSUP.GITE.COCO.REPOS" ccsystem="GIT" cctestid="CWXTSUBC" ccprogramtype="TOTALTEST - TTTRUNNR" ccreset="true" ccshow="true">
   <ExtensionData>
     <Parameter key="ispw_level">
       <Value>UT1</Value>
@@ -11,7 +11,7 @@
       <Value>SALESSUP.${ispw_app}.${ispw_level}.LOAD</Value>
     </Parameter>
   </ExtensionData>
-  <XaUnit xmlns:data="http://www.xact.dk/xatester/data/v/1" componentNameUnderTest="CWXTSUBC" caseInsensitiveCompare="false" path="CWXTSUBC_Sales_Scenario.context">
+  <XaUnit xmlns:data="http://www.xact.dk/xatester/data/v/1" componentNameUnderTest="CWXTSUBC" caseInsensitiveCompare="false" path="CWXTSUBC_Sales_Scenario.testscenario">
     <Test>
       <Unittest testscenariopath="CWXTSUBC_Sales_Scenario.testscenario" moduleName="CWXTSUBC" />
     </Test>
