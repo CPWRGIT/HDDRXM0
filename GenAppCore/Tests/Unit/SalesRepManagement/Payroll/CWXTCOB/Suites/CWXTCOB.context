@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ExecutionContext xmlns="http://www.xact.dk/xatester/v/1" environment="5b508b8a787be73b59238d38" logLevel="INFO" remote="false" useSimulations="true" uploadResult="false" timeout="300" readTimeout="30" debuggerType="CCEXPEDITER" jobInfoInterval="3" ccrepository="SALESSUP.GITE.COCO.REPOS" ccsystem="GITE" cctestid="CWXTCOB" ccprogramtype="TOTALTEST - TTTRUNNR" ccreset="true" ccshow="true">
+  <ExtensionData>
+    <Parameter key="unittest.loadlibraries">
+      <Value>SALESSUP.GITE.UT1.LOAD</Value>
+    </Parameter>
+  </ExtensionData>
+  <XaUnit xmlns:data="http://www.xact.dk/xatester/data/v/1" componentNameUnderTest="CWXTCOB.testsuite" caseInsensitiveCompare="false" path="CWXTCOB.testsuite">
+    <Test>
+      <Unittest testscenariopath="CWXTCOB.testsuite" moduleName="CWXTCOB.testsuite" />
+    </Test>
+  </XaUnit>
+</ExecutionContext>
