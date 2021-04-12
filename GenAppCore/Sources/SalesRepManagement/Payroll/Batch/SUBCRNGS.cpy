@@ -5,6 +5,7 @@
            88  M-RANGE4           VALUES ARE 300001 THRU 400000.
            88  M-RANGE5           VALUES ARE 400001 THRU 500000.
       *** 
+      ***      
       ***
       ***
        01  MGMT-RATE-TABLE.
