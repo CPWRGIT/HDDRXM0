@@ -9,6 +9,7 @@
 000900*      CALLED FROM    TPROG01
 001000*      WITH COPYLIB   TCPYB01 (LINKAGE AREA)
 001100* ======================================================
+001100* ======================================================
 001200*  ISPW (TM)
 001300*  (C) COPYRIGHT 1996, 1998  BENCHMARK TECHNOLOGIES LTD.
 001400*  THIS PRODUCT CONTAINS PROPRIETARY MATERIAL, AND MAY
