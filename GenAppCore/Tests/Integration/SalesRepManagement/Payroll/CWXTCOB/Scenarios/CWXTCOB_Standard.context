@@ -13,6 +13,9 @@
     <Parameter key="nvt_ispw_level2">
       <Value>FT1</Value>
     </Parameter>
+    <Parameter key="nvt_ispw_level1">
+      <Value>UT1</Value>
+    </Parameter>
   </ExtensionData>
   <ExtensionData componentName="cwxtcob" componentId="5d5fea81180742000cf98888" />
   <XaUnit path="CWXTCOB_Standard.scenario" />
