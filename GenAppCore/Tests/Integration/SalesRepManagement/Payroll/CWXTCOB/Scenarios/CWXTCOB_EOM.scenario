@@ -15,7 +15,6 @@ Store expected RPFILE data locally and restore to mainframe</Description>
     <Scope name="Config" disabled="false">
       <Variable id="userid">HDDRXM0</Variable>
       <Variable id="ispw_app">GITE</Variable>
-      <Variable id="ispw_level">FT1</Variable>
     </Scope>
     <Scope name="Initialize" disabled="false">
       <Scope name="Variable Set Up" disabled="false">
